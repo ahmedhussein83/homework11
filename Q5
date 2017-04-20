@@ -1,6 +1,0 @@
-. first GET /vehicle 
-. load the database that deal with this page						 
-. load the models  
-. rendering the vehicl layouts/application
-. rendering the vehicl actual index.HTML 	 	
-. done
